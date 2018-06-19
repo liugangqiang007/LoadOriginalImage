@@ -7,9 +7,9 @@
 //
 
 #import "UIImageView+GGSetImage.h"
-#import "AFNetworking.h"
-#import "UIImageView+WebCache.h"
-#import "SDImageCache.h"
+#import <AFNetworking.h>
+#import <UIImageView+WebCache.h>
+#import <SDImageCache.h>
 
 @implementation UIImageView (GGSetImage)
 
